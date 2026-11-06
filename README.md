@@ -1,10 +1,3 @@
-# AndroidLibXrayLite
-
-## Build requirements
-* JDK
-* Android SDK
-* Go
-* gomobile
 
 ## Build instructions
 1. `git clone [repo] && cd AndroidLibXrayLite`
